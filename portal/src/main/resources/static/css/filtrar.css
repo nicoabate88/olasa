@@ -1,0 +1,23 @@
+.form-control {
+    width: 250px;
+}
+
+h4 {
+    color: grey;
+}
+
+.contenedor-columnas{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 75px;
+
+}
+.columnasx2{
+    width: 50%;
+    float: left;
+    padding: 45px 45px;
+    box-sizing: border-box;
+    margin: 0 auto;
+   
+    text-align-last: center;
+}
